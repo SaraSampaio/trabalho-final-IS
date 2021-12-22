@@ -1,0 +1,13 @@
+{
+    "broker_uri": "amqp://guest:guest@localhost:5672",
+    "message_to_turn_on_system":"Ligar Sistema",
+    "topic_to_turn_on_system":"Controle.Console",
+    "set_robot_x_position": 5,
+    "set_robot_y_position": 4,
+    "find_robot_function_name":"get_position",
+    "move_robot_function_name":"set_position",
+    "topic_to_control_the_robot":"Requisicao.Robo",
+
+    "topic_to_set_position":"Controle.Ajusta_Robo",
+    "topic_to_get_position":"Controle.Acha_Robo"
+}
